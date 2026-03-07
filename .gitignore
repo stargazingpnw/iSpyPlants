@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Data and models (too large for GitHub)
+data/
+model/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pth
+
+# Mac system files
+.DS_Store
+
+# PyCharm
+.idea/
+!model/best_model.pth
