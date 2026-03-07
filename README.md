@@ -71,7 +71,7 @@ python scripts/predict.py --image your_flower.jpg
 ## Roadmap
 - [x] V1: Train flower classifier (95.12% accuracy)
 - [ ] V2: Retrain on PlantNet for broad plant identification
-- [ ] Build Flask API to serve predictions
+- [x] Build Flask API to serve predictions
 - [ ] Deploy to cloud
 - [ ] Build Flutter mobile app
 - [ ] Launch on App Store and Google Play
